@@ -3,15 +3,15 @@
  
 ## 📌 목차
 
-1. [프로젝트 개요](https://www.notion.so/readme-md-daf154cafb1744408a5a4138becb48c9?pvs=21)
-2. [팀 소개](https://www.notion.so/readme-md-daf154cafb1744408a5a4138becb48c9?pvs=21)
-3. [주요 기능](https://www.notion.so/readme-md-daf154cafb1744408a5a4138becb48c9?pvs=21)
-4. [기술 스택](https://www.notion.so/readme-md-daf154cafb1744408a5a4138becb48c9?pvs=21)
-5. [아키텍처](https://www.notion.so/readme-md-daf154cafb1744408a5a4138becb48c9?pvs=21)
-6. [시연 사진](https://www.notion.so/readme-md-daf154cafb1744408a5a4138becb48c9?pvs=21)
-7. [설치 및 실행 방법](https://www.notion.so/readme-md-daf154cafb1744408a5a4138becb48c9?pvs=21)
-8. [API 사용](https://www.notion.so/readme-md-daf154cafb1744408a5a4138becb48c9?pvs=21)
-9. [프로젝트 비전 및 향후 계획](https://www.notion.so/readme-md-daf154cafb1744408a5a4138becb48c9?pvs=21)
+1. [프로젝트 개요](#프로젝트-개요)
+2. [팀 소개](#팀-소개)
+3. [주요 기능](#주요-기능)
+4. [기술 스택](#기술-스택)
+5. [아키텍처](#architecture)
+6. [UI/UX](#UI/UX)
+7. [설치 및 실행 방법](#설치-및-실행-방법)
+8. [API 사용](#API-사용)
+9. [프로젝트 비전 및 향후 계획](#프로젝트-비전-및-향후-계획)
 
 ## 프로젝트 개요
 
